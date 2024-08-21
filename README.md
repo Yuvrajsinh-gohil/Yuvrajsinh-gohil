@@ -28,9 +28,10 @@ I'm **Yuvraj Gohil**, a data-driven professional with a robust background in **D
 - **Soft Skills**: **Communication**, **Teamwork**, **Problem-solving**, **Adaptability**
 
 ### 🌱 Let's Connect
-Explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/yuvrajsinh-gohil/). I'm always keen on new opportunities to collaborate, learn, and grow.
+Explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/YuvrajsinhGohil). I'm always keen on new opportunities to collaborate, learn, and grow.
 
 ---
 
 Thank you for visiting my profile!
+
 
